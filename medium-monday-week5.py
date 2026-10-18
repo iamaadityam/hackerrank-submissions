@@ -1,1 +1,0 @@
-xxxxxxxxxx N = int(input(""))if N < 2:    print("Not Prime")elif N == 3 or N == 2:    print("Prime")else:    for i in range(2,N) :        if N % i == 0:            print("Not Prime")            break        else:            i = i + 1    if i == N:        print("Prime")​
