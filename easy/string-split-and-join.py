@@ -5,6 +5,3 @@ def split_and_join(line):
         out = out + line.split()[i] + "-"
     return(out[:-1])
 if __name__ == '__main__':
-    line = input()
-    result = split_and_join(line)
-    print(result)
