@@ -1,14 +1,15 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 n = int(input())
 lst = input()
-k = int(input())
 lst = list(map(int, lst.split()))
-def lins(lst, k):
-    for i in range(n):
-        if k == lst[i]:
-            print(i)
-            return True
+target = int(input())
+k = 0
+​
+for i in range(len(lst)):
+    if lst[i] == target:
+        print(i)
+        k = k + 1
+        break
+if k == len(lst):
     print("-1")
-    return False
-lins(lst, k)
 ​
