@@ -1,0 +1,7 @@
+s = input()
+s = s.lower()
+k = ''
+for c in s:
+    if c in 'abcdefghijklmnopqrstuvwxyz1234567890':
+        k = k + c
+print(k)
