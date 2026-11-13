@@ -22,15 +22,15 @@
   
   
 
-  |PrepareCertifyCompete|Switch to..PreparePythonPython15 more points to get your next star!Rank: 1526974|Points: 95/110PythonList ComprehensionsEasyPython (Basic)Max Score: 10Success Rate: 97.70%You will learn about list comprehensions.Solve ChallengeSay "Hello, World!" With PythonEasyMax Score: 5Success Rate: 96.16%SolvedPython If-ElseEasyPython (Basic)Max Score: 10Success Rate: 90.01%SolvedArithmetic OperatorsEasyPython (Basic)Max Score: 10Success Rate: 97.31%SolvedHackerRank OrchestrateA 24-Hour Hackathon to Design, Build, and Ship an AgentPython: DivisionEasyPython (Basic)Max Score: 10Success Rate: 98.73%SolvedLoopsEasyPython (Basic)Max Score: 10Success Rate: 98.12%SolvedWrite a functionMediumPython (Basic)Max Score: 10Success Rate: 90.64%SolvedPrint FunctionEasyPython (Basic)Max Score: 20Success Rate: 97.62%SolvedFind the Runner-Up Score!  EasyPython (Basic)Max Score: 10Success Rate: 94.89%Solve ChallengeNested ListsEasyPython (Basic)Max Score: 10Success Rate: 92.88%Solve ChallengeFinding the percentageEasyPython (Basic)Max Score: 10Success Rate: 97.52%Solve ChallengeListsEasyPython (Basic)Max Score: 10Success Rate: 91.21%Solve ChallengeTuples EasyPython (Basic)Max Score: 10Success Rate: 90.70%Try AgainsWAP cASEEasyPython (Basic)Max Score: 10Success Rate: 98.11%SolvedString Split and JoinEasyPython (Basic)Max Score: 10Success Rate: 98.57%SolvedWhat's Your Name?EasyPython (Basic)Max Score: 10Success Rate: 97.07%Solve ChallengeMutationsEasyPython (Basic)Max Score: 10Success Rate: 98.29%Solve ChallengeFind a stringEasyPython (Basic)Max Score: 10Success Rate: 94.43%Solve ChallengeString ValidatorsEasyPython (Basic)Max Score: 10Success Rate: 94.89%Solve ChallengeText AlignmentEasyPython (Basic)Max Score: 10Success Rate: 95.90%Solve ChallengeStatusSolvedUnsolvedSkillsProblem Solving (Basic)Python (Basic)Problem Solving (Advanced)Python (Intermediate)DifficultyEasyMediumHardSubdomainsIntroductionBasic Data TypesStringsSetsMathItertoolsCollectionsDate and TimeErrors and ExceptionsClassesBuilt-InsPython FunctionalsRegex and ParsingXMLClosures and DecoratorsNumpyDebuggingBlogScoringEnvironmentFAQAbout UsHelpdeskCareersTerms Of ServicePrivacy Policy
+  |PrepareCertifyCompete|Switch to..PreparePythonPython15 more points to get your next star!Rank: 1528390|Points: 95/110PythonWhat's Your Name?EasyPython (Basic)Max Score: 10Success Rate: 97.07%Python string practice: Print your name in the console.Solve ChallengesWAP cASEEasyPython (Basic)Max Score: 10Success Rate: 98.11%SolvedString Split and JoinEasyPython (Basic)Max Score: 10Success Rate: 98.57%SolvedMutationsEasyPython (Basic)Max Score: 10Success Rate: 98.29%Solve ChallengeHackerRank OrchestrateA 24-Hour Hackathon to Design, Build, and Ship an AgentFind a stringEasyPython (Basic)Max Score: 10Success Rate: 94.43%Solve ChallengeString ValidatorsEasyPython (Basic)Max Score: 10Success Rate: 94.90%Solve ChallengeText AlignmentEasyPython (Basic)Max Score: 10Success Rate: 95.90%Solve ChallengeText WrapEasyPython (Basic)Max Score: 10Success Rate: 98.62%Solve ChallengeDesigner Door MatEasyPython (Basic)Max Score: 10Success Rate: 98.16%Solve ChallengeString FormattingEasyPython (Basic)Max Score: 10Success Rate: 93.14%Solve ChallengeStatusSolvedUnsolvedSkillsProblem Solving (Basic)Python (Basic)Problem Solving (Advanced)Python (Intermediate)DifficultyEasyMediumHardSubdomainsIntroductionBasic Data TypesStringsSetsMathItertoolsCollectionsDate and TimeErrors and ExceptionsClassesBuilt-InsPython FunctionalsRegex and ParsingXMLClosures and DecoratorsNumpyDebuggingBlogScoringEnvironmentFAQAbout UsHelpdeskCareersTerms Of ServicePrivacy Policy
 
   
   HR = window.HR || {};
   HR.development = false;
   HR.assetPath = 'https://hrcdn.net/fcore/assets/';
   HR.pageLoadTime = Date.now();
-  HR.serverAPITime = 1163
-  HR.serverRenderTime = 10
+  HR.serverAPITime = 1388
+  HR.serverRenderTime = 9
 
   HR.production = true;
   HR.devServer = false;
@@ -362,11 +362,3 @@ if (HR.userEmitter && typeof HR.userEmitter.on === 'function') {
       
     }
   }, true);
-
-
-
-
-
-
-
-sep, , , hint
