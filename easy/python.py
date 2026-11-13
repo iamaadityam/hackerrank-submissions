@@ -22,7 +22,7 @@
   
   
 
-  |PrepareCertifyCompete|Switch to..PreparePythonPython15 more points to get your next star!Rank: 1528390|Points: 95/110PythonWhat's Your Name?EasyPython (Basic)Max Score: 10Success Rate: 97.07%Python string practice: Print your name in the console.Solve ChallengesWAP cASEEasyPython (Basic)Max Score: 10Success Rate: 98.11%SolvedString Split and JoinEasyPython (Basic)Max Score: 10Success Rate: 98.57%SolvedMutationsEasyPython (Basic)Max Score: 10Success Rate: 98.29%Solve ChallengeHackerRank OrchestrateA 24-Hour Hackathon to Design, Build, and Ship an AgentFind a stringEasyPython (Basic)Max Score: 10Success Rate: 94.43%Solve ChallengeString ValidatorsEasyPython (Basic)Max Score: 10Success Rate: 94.90%Solve ChallengeText AlignmentEasyPython (Basic)Max Score: 10Success Rate: 95.90%Solve ChallengeText WrapEasyPython (Basic)Max Score: 10Success Rate: 98.62%Solve ChallengeDesigner Door MatEasyPython (Basic)Max Score: 10Success Rate: 98.16%Solve ChallengeString FormattingEasyPython (Basic)Max Score: 10Success Rate: 93.14%Solve ChallengeStatusSolvedUnsolvedSkillsProblem Solving (Basic)Python (Basic)Problem Solving (Advanced)Python (Intermediate)DifficultyEasyMediumHardSubdomainsIntroductionBasic Data TypesStringsSetsMathItertoolsCollectionsDate and TimeErrors and ExceptionsClassesBuilt-InsPython FunctionalsRegex and ParsingXMLClosures and DecoratorsNumpyDebuggingBlogScoringEnvironmentFAQAbout UsHelpdeskCareersTerms Of ServicePrivacy Policy
+  |PrepareCertifyCompete|Switch to..PreparePythonPython5 more points to get your next star!Rank: 1405300|Points: 105/110PythonMutationsEasyPython (Basic)Max Score: 10Success Rate: 98.29%Understand immutable vs mutable by making changes to a given string.Solve ChallengesWAP cASEEasyPython (Basic)Max Score: 10Success Rate: 98.11%SolvedString Split and JoinEasyPython (Basic)Max Score: 10Success Rate: 98.57%SolvedWhat's Your Name?EasyPython (Basic)Max Score: 10Success Rate: 97.07%SolvedHackerRank OrchestrateA 24-Hour Hackathon to Design, Build, and Ship an AgentFind a stringEasyPython (Basic)Max Score: 10Success Rate: 94.43%Solve ChallengeString ValidatorsEasyPython (Basic)Max Score: 10Success Rate: 94.90%Solve ChallengeText AlignmentEasyPython (Basic)Max Score: 10Success Rate: 95.90%Solve ChallengeText WrapEasyPython (Basic)Max Score: 10Success Rate: 98.62%Solve ChallengeDesigner Door MatEasyPython (Basic)Max Score: 10Success Rate: 98.16%Solve ChallengeString FormattingEasyPython (Basic)Max Score: 10Success Rate: 93.14%Solve ChallengeStatusSolvedUnsolvedSkillsProblem Solving (Basic)Python (Basic)Problem Solving (Advanced)Python (Intermediate)DifficultyEasyMediumHardSubdomainsIntroductionBasic Data TypesStringsSetsMathItertoolsCollectionsDate and TimeErrors and ExceptionsClassesBuilt-InsPython FunctionalsRegex and ParsingXMLClosures and DecoratorsNumpyDebuggingBlogScoringEnvironmentFAQAbout UsHelpdeskCareersTerms Of ServicePrivacy Policy
 
   
   HR = window.HR || {};
@@ -362,3 +362,20 @@ if (HR.userEmitter && typeof HR.userEmitter.on === 'function') {
       
     }
   }, true);
+
+
+
+
+
+
+
+values, , Prints the values to a stream, or to sys.stdout by default.
+
+sep
+  string inserted between values, default a space.
+end
+  string appended after the last value, default a newline.
+file
+  a file-like object (stream); defaults to the current sys.stdout.
+flush
+  whether to forcibly flush the stream., hint
